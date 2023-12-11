@@ -1,0 +1,2 @@
+This data analytics Project uses Python to data clean and perform explanatory data analysis on Home Loan Approval from people of all backgrounds. I analyze customers information such as income, martial status, dependents, education, and more to find the correlation and connection to home loan approval.  
+This dataset is publicly available on Kaggle.com using this link -- https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval/data
